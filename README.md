@@ -73,9 +73,9 @@ online-store-services/
 ├── requirements.txt
 ├── README.md
 ├── .gitignore
-└── screenshots/
-    ├── successful-order.png
-    └── inventory-timeout.png
+evidence/
+├── Screenshot 2026-10-10 233159.png
+└── Screenshot 2026-10-10 234556.png
 ```
 
 ## Technologies Used
