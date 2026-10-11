@@ -170,7 +170,7 @@ Example response:
 
 The order ID is generated dynamically and may be different for each request.
 
-![Successful order request](screenshots/successful-order.png)
+![Successful order request](https://github.com/vigneshjr718/online-store-services/blob/main/evidence/Screenshot%202026-10-10%20233159.png)
 
 ## Inventory Service Failure Test
 
@@ -209,7 +209,7 @@ The Order Service returned the following error:
 
 This demonstrates that the Order Service handled the Inventory Service dependency failure and remained running instead of crashing.
 
-![Inventory Service timeout failure](screenshots/inventory-timeout.png)
+![Inventory Service timeout failure](https://github.com/vigneshjr718/online-store-services/blob/main/evidence/Screenshot%202026-10-10%20234556.png)
 
 ## Timeout Handling
 
